@@ -79,6 +79,21 @@ cargo run
 - 使用本地的Redis实例可以显著提高性能
 - 考虑运行在低延迟的云服务器上，减少网络延迟
 
-## 贡献
+
+## 联系方式
+- 电 报：[小P](https://t.me/caobizhiwang)
+- 交流群：[Buff社区](https://t.me/chainbuff)
+
+## 贡献指南
 
 欢迎提交问题和Pull请求，一起改进这个项目！ 
+
+1. Fork 项目
+2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 创建 Pull Request
+
+## 许可证
+
+MIT License
